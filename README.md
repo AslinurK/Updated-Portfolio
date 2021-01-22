@@ -6,6 +6,6 @@ Within is a link to my resume, information about me, links to my GitHib, LinkedI
 
 CONTACT: aslinurkeklikci@yahoo.com
 
-Live Deployed Link: 
+Live Deployed Link: https://aslinurk.github.io/Updated-Portfolio/
 
 Git Hub: https://github.com/AslinurK/Updated-Portfolio
